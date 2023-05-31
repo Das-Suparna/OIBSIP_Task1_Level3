@@ -59,12 +59,12 @@ Axios is used to communicate with the backend and it also supports the Promise A
 Integrate Razorpay Payment gateway in your react application.
 
 
+<br>
+
+<h1><a href="https://suparnaoasispizza.netlify.app/">Oasis_Infobyte_Pizza_Suparna.netifyapp</a></h1>
 
 
-<h1><a href="https://suparnaoasispizza.netlify.app/">Oasis_Infobyte_Pizza_Suparna</a></h1>
-
-
-
+<br><br>
 
 ## Learn More
 
