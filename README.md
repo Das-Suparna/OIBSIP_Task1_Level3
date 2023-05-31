@@ -4,7 +4,7 @@
 # TASK 1 - Oasis Infobyte Web Development and Designing Intern    BATCH MAY - P2
 
 <br>
-<a href="https://suparnaoasispizza.netlify.app/">Oasis_Infobyte_Pizza_Suparna</a>
+
 <br><br>
 
 # Getting Started with Create React App
@@ -57,6 +57,12 @@ Axios is used to communicate with the backend and it also supports the Promise A
 ### `npm i react-razorpay`
 
 Integrate Razorpay Payment gateway in your react application.
+
+
+
+
+<h1><a href="https://suparnaoasispizza.netlify.app/">Oasis_Infobyte_Pizza_Suparna</a></h1>
+
 
 
 
