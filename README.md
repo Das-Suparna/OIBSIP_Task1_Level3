@@ -1,7 +1,7 @@
 
 # Created by SUPARNA DAS - LEVEL 3 
-# PIZZA DELIVERY APPLICATION
-# TASK 1 - OASIS INFOBYTE WEB DEVELOPMENT AND DESIGNING INTERN BATCH MAY - P2
+# Pizza Delivery Application
+# TASK 1 - Oasis Infobyte Web Development and Designing Intern    BATCH MAY - P2
 
 <br><br><br>
 
